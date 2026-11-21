@@ -1,0 +1,1 @@
+# _unified_makkah_intel_feed.sql
